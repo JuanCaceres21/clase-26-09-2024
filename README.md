@@ -10,3 +10,11 @@ Este tiene la caracteristica de hacer funcionar un sistema mas repido, pero a ca
 Este a diferencia del anterior reduce la suceptibilidad del sistema al ruido, pero sacrificando velocidad de respuesta.
 ### 1.3 control en adelanto-atraso de fase:
 por ultimo tenemos una combinacion de los dos metodos anteriores, este toma caracteristicas de ambos, y si no se necesita algo muy especifico, este metodo puede ser el adecuado.
+
+## 2. Control PID:
+Es posible sintonizar un controlador PID basandose en la frecuencia sobre todo teniendo en cuenta que efectos tiene cada etapa en el espectro de la frecuencia:
+
+ ### 2.1 control PD:
+ Esta arquitectura mejora la estabilidad en la alta frecuancia.
+ ### 2.2 control PI
+ por otro lado este control mejora la estabilidad en la baja frecuencia.
