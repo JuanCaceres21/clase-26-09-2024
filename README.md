@@ -36,11 +36,15 @@ $$MP>-180°$$ es positivo
 
 $$MP<-180°$$ es negativo
 
+![Ejemplo margen de fase y magnitud](imagenes/untitled.jpg)
+
+Figura 1. Ejemplo margen de fase y magnitud
 ## 3.3 Características por margen de ganancia y fase
 Si MG y MP son positivos el sistema es estable en lazo cerrado.
 sí MG y MP son cero o negativos el sistema puede ser inestable en lazo cerrado.
 
-![Ejemplo margen de fase y magnitud](imagenes/untitled.jpg)
+En la respuesta del sistema, para un sistema de segundo orden lo ideal seria que:
 
-Figura 1. Ejemplo margen de fase y magnitud
+$$MG>=12bD  MP>=60°$$ 
+
 
