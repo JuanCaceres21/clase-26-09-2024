@@ -46,6 +46,7 @@ sí MG y MP son cero o negativos el sistema puede ser inestable en lazo cerrado.
 En la respuesta del sistema, para un sistema de segundo orden lo ideal seria que:
 
 $$MG>=12bD$$ 
+
 $$MP>=60°$$
 
 ## 4. procedimiento de diseño
