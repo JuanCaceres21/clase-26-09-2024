@@ -41,3 +41,5 @@ Si MG y MP son positivos el sistema es estable en lazo cerrado.
 si MG y MP son cero o negativos el sistema puede ser inestable en lazo cerrado.
 
 ![Ejemplo margen de fase y megnitud](imagenes/untitled.jpg)
+
+Figura 1. Ejemplo margen de fase y megnitud
