@@ -26,6 +26,7 @@ Estas son dos caracteristicas que se pueden encontrar en el digrama de Bode de c
 Este es el cambio de ganancia que hace que un sistema sea inestable en lazo abierto, se mide tomando como referencia la fase de 180° y se representa con el simbolo de MG.
 
 $$MG>0$$ es positivo
+
 $$MG<0$$ es negativo
 
 
