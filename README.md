@@ -15,6 +15,17 @@ por ultimo tenemos una combinacion de los dos metodos anteriores, este toma cara
 Es posible sintonizar un controlador PID basandose en la frecuencia sobre todo teniendo en cuenta que efectos tiene cada etapa en el espectro de la frecuencia:
 
  ### 2.1 control PD:
- Esta arquitectura mejora la estabilidad en la alta frecuancia.
+ Esta arquitectura mejora la estabilidad este en la alta frecuancia.
  ### 2.2 control PI
  por otro lado este control mejora la estabilidad en la baja frecuencia.
+
+## 3. margen de fase y ganancia:
+Estas son dos caracteristicas que se pueden encontrar en el digrama de Bode de cualquier sistema, nos ayuda a enconrar caracteristicas dinamicas del sistema.
+
+## 3.1 margen de fase:
+Este es el cambio de ganancia que hace que un sistema sea inestable en lazo abierto, se mide tomando como referencia la fase de 180° y se representa con el simbolo de MG.
+
+$$MG>0$$ es positivo
+$$MG<0$$ es negativo
+
+
