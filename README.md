@@ -65,12 +65,13 @@ $$T1=\frac{10}{Wg.a}$$
 
 Donde Wg es la frecuencia en donde esta ubicada la fase que deseamos y α es la magnitud en la frecuencia Wg.
 
-💡**Ejemplo 1:**
+# Ejercicios
+## 📚ejercicio 1:
 retomando el diagrama de Bode de la figura 1, digamos que queremos mover el margen de fase a 60°, esto lo logramos de la siguiente manera.
 
 ![Ejemplo redes de atraso](imagenes/ejemplo2.jpg)
 
-Figura 2. Ejemplo redes de atraso.
+Figura 2. ejercicio redes de atraso.
 
 Como se ve en la imagen ubicamos un cursor en la fase de -114°, esto ya que eset valor se obtienen asi:
 
@@ -96,3 +97,9 @@ $$T1=18.21$$
 Entonces:
 
 $$C(w)=\frac{1+13.4754w}{1+18.21w}$$
+
+![Ejemplo redes de atraso](imagenes/ejemplo3.jpg)
+
+Figura 3. solucion ejemplo 1 redes de atraso.
+
+Y como se puede observar, gracias a la funcion, la margen de fase fue modificada cerca del 60° que se buscaba.
