@@ -82,3 +82,17 @@ De esta misma forma sabemos que:
 $$Wg=0.733Rad/s$$ 
 
 $$α=2.51dB$$ 
+
+Por lo tanto:
+
+$$a={10}^{-\frac{2.51}{20}}$$
+
+$$a=0.74$$
+
+$$T1=\frac{10}{0.733.0.74}$$
+
+$$T1=18.21$$
+
+Entonces:
+
+$$C(w)=\frac{1+13.4754w}{1+18.21w}$$
