@@ -45,7 +45,8 @@ sí MG y MP son cero o negativos el sistema puede ser inestable en lazo cerrado.
 
 En la respuesta del sistema, para un sistema de segundo orden lo ideal seria que:
 
-$$MG>=12bD$$  $$MP>=60°$$
+$$MG>=12bD$$ 
+$$MP>=60°$$
 
 ## 4. procedimiento de diseño
 En caso de ya tener un sistema discretizado G(z), este debe volver al dominio del tiempo continuo, por lo que se le debe transformar en G(w) para poder graficar sus diagramas de bode.
