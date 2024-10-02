@@ -1,6 +1,7 @@
 # clase-26-09-2024
 # Diseño de redes de atraso por analisis de frecuencia
 Para analizar un sistema basandonos en su respuesta a distintas frecuencias podemos utilizar dos metodos, cada uno con vnetajas y desventajas.
+
 ## 1. diseño por diagrama de bode:
 en este metodo de diseño, contamos con tres sub metodos con caracteristicas diferentes:
 ### 1.1 control por adelanto de fase:
