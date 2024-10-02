@@ -38,7 +38,7 @@ $$MP<-180°$$ es negativo
 
 ![Ejemplo margen de fase y magnitud](imagenes/untitled.jpg)
 
-Figura 1. Ejemplo margen de fase y magnitud
+Figura 1. Ejemplo margen de fase y magnitud.
 ## 3.3 Características por margen de ganancia y fase
 Si MG y MP son positivos el sistema es estable en lazo cerrado.
 sí MG y MP son cero o negativos el sistema puede ser inestable en lazo cerrado.
@@ -64,3 +64,10 @@ $$a={10}^{-\frac{α}{20}}$$
 $$T1=\frac{10}{Wg.a}$$
 
 Donde Wg es la frecuencia en donde esta ubicada la fase que deseamos y α es la magnitud en la frecuencia Wg.
+
+💡**Ejemplo 1:**
+retomando el diagrama de Bode de la figura 1, digamos que queremos mover el margen de fase a 60°, esto lo logramos de la siguiente manera.
+
+![Ejemplo redes de atraso](imagenes/untitled.jpg)
+
+Figura 2. Ejemplo redes de atraso.
