@@ -77,4 +77,6 @@ Como se ve en la imagen ubicamos un cursor en la fase de -114°, esto ya que ese
 $$φ=180°+MP+6°$$
 
 En donde MP es el margen de fase deseado.
-De esta misma forma, sabemos que Wg es igual a 0.733 Rad/s y α equivale a 2.51dB 
+De esta misma forma sabemos que: 
+$$Wg=0.733Rad/s$$  
+$$α=2.51dB$$ 
