@@ -78,5 +78,7 @@ $$φ=180°+MP+6°$$
 
 En donde MP es el margen de fase deseado.
 De esta misma forma sabemos que: 
-$$Wg=0.733Rad/s$$  
+
+$$Wg=0.733Rad/s$$ 
+
 $$α=2.51dB$$ 
