@@ -68,6 +68,13 @@ Donde Wg es la frecuencia en donde esta ubicada la fase que deseamos y α es la 
 💡**Ejemplo 1:**
 retomando el diagrama de Bode de la figura 1, digamos que queremos mover el margen de fase a 60°, esto lo logramos de la siguiente manera.
 
-![Ejemplo redes de atraso](imagenes/untitled.jpg)
+![Ejemplo redes de atraso](imagenes/ejemplo1.jpg)
 
 Figura 2. Ejemplo redes de atraso.
+
+Como se ve en la imagen ubicamos un cursor en la fase de -114°, esto ya que eset valor se obtienen asi:
+
+$$φ=180°+MP+6°$$
+
+En donde MP es el margen de fase deseado.
+De esta misma forma, sabemos que Wg es igual a 0.733 Rad/s y α equivale a 2.51dB 
