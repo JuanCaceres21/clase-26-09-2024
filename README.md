@@ -52,4 +52,15 @@ $$MP>=60°$$
 ## 4. procedimiento de diseño
 En caso de ya tener un sistema discretizado G(z), este debe volver al dominio del tiempo continuo, por lo que se le debe transformar en G(w) para poder graficar sus diagramas de bode.
 
+### 4.1 redes de atraso:
+en este metodo de diseño se ubica un controlador antes del sistema, el cual modificara la respuesta en frecuencia del sistema segun nuestra conveniencia.
 
+$$C(w)=\frac{1+a.T1.W}{1+T1.W}$$
+
+$$0<a<1$$
+
+$$a={10}^{\-frac{α}{20}}$$
+
+$$T1=\frac{10}{Wg.a}$$
+
+Donde Wg es la frecuencia en donde esta ubicada la fase que deseamos y α es la magnitud en la frecuencia Wg.
