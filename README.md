@@ -43,7 +43,7 @@ Figura 1. Ejemplo margen de fase y magnitud.
 Si MG y MP son positivos el sistema es estable en lazo cerrado.
 sí MG y MP son cero o negativos el sistema puede ser inestable en lazo cerrado.
 
-En la respuesta del sistema, para un sistema de segundo orden lo ideal seria que:
+En la respuesta del sistema, para un sistema de segundo orden lo ideal sería que:
 
 $$MG>=12bD$$ 
 
@@ -53,7 +53,7 @@ $$MP>=60°$$
 En caso de ya tener un sistema discretizado G(z), este debe volver al dominio del tiempo continuo, por lo que se le debe transformar en G(w) para poder graficar sus diagramas de bode.
 
 ### 4.1 redes de atraso:
-en este metodo de diseño se ubica un controlador antes del sistema, el cual modificara la respuesta en frecuencia del sistema segun nuestra conveniencia.
+en este método de diseño se ubica un controlador antes del sistema, el cual modificara la respuesta en frecuencia del sistema según nuestra conveniencia.
 
 $$C(w)=\frac{1+a.T1.W}{1+T1.W}$$
 
@@ -63,7 +63,7 @@ $$a={10}^{-\frac{α}{20}}$$
 
 $$T1=\frac{10}{Wg.a}$$
 
-Donde Wg es la frecuencia en donde esta ubicada la fase que deseamos y α es la magnitud en la frecuencia Wg.
+Donde Wg es la frecuencia en donde está ubicada la fase que deseamos y α es la magnitud en la frecuencia Wg.
 
 # Ejercicios
 ## 📚ejercicio 1:
@@ -73,7 +73,7 @@ retomando el diagrama de Bode de la figura 1, digamos que queremos mover el marg
 
 Figura 2. ejercicio redes de atraso.
 
-Como se ve en la imagen ubicamos un cursor en la fase de -114°, esto ya que eset valor se obtienen asi:
+Como se ve en la imagen ubicamos un cursor en la fase de -114°, esto ya que este valor se obtiene así:
 
 $$φ=180°+MP+6°$$
 
@@ -98,8 +98,10 @@ Entonces:
 
 $$C(w)=\frac{1+13.4754w}{1+18.21w}$$
 
+
 ![Ejemplo redes de atraso](imagenes/ejemplo3.jpg)
 
-Figura 3. solucion ejemplo 1 redes de atraso.
+Figura 3. solución ejemplo 1 redes de atraso.
 
-Y como se puede observar, gracias a la funcion, la margen de fase fue modificada cerca del 60° que se buscaba.
+Y como se puede observar, gracias a la función, la margen de fase fue modificada cerca del 60° que se buscaba.
+
