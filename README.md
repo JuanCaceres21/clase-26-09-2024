@@ -57,7 +57,7 @@ en este método de diseño se ubica un controlador antes del sistema, el cual mo
 
 $$C(w)=\frac{1+a.T1.W}{1+T1.W}$$
 
-$$0<a<1$$
+$${0 < a < 1}$$
 
 $$a={10}^{-\frac{α}{20}}$$
 
