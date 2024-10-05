@@ -150,6 +150,6 @@ Figura 3. solución ejercicio 2 redes de atraso.
 El ruido puede ser un factor que de no ser considerado puede llevar a que un sistema se inestabilice, por lo tanto, es una práctica prudente tener en cuenta los métodos de diseño por frecuencia, para que de esta forma nuestro sistema sea estable en el ancho de banda más grande posible.
 
 ## Referecncias:
+JORGE EDUARDO COTE BALLESTEROS (26 sep 2024). E.P.1.Control digital. Diseño redes de atraso en frecuencia. universidad ECCI
 
- 
 
