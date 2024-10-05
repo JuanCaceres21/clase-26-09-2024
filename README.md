@@ -145,5 +145,11 @@ $$C(w)=\frac{1+6.8w}{1+20w}$$
 ![Ejemplo redes de atraso](imagenes/ejemplo5.jpg)
 
 Figura 3. solución ejercicio 2 redes de atraso.
+
+## Conclusiones:
+El ruido puede ser un factor que de no ser considerado puede llevar a que un sistema se inestabilice, por lo tanto, es una práctica prudente tener en cuenta los métodos de diseño por frecuencia, para que de esta forma nuestro sistema sea estable en el ancho de banda más grande posible.
+
+## Referecncias:
+
  
 
