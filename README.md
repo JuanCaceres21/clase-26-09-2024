@@ -71,7 +71,7 @@ retomando el diagrama de Bode de la figura 1, digamos que queremos mover el marg
 
 ![Ejemplo redes de atraso](imagenes/ejemplo2.jpg)
 
-Figura 2. ejercicio redes de atraso.
+Figura 2. ejercicio 1 redes de atraso.
 
 Como se ve en la imagen ubicamos un cursor en la fase de -114°, esto ya que este valor se obtiene así:
 
@@ -101,7 +101,7 @@ $$C(w)=\frac{1+13.4754w}{1+18.21w}$$
 
 ![Ejemplo redes de atraso](imagenes/ejemplo3.jpg)
 
-Figura 3. solución ejemplo 1 redes de atraso.
+Figura 3. solución ejercicio 1 redes de atraso.
 
 Y como se puede observar, gracias a la función, la margen de fase fue modificada cerca del 60° que se buscaba.
 
@@ -141,5 +141,9 @@ $$T1=20$$
 Entonces:
 
 $$C(w)=\frac{1+6.8w}{1+20w}$$
+
+![Ejemplo redes de atraso](imagenes/ejemplo5.jpg)
+
+Figura 3. solución ejercicio 2 redes de atraso.
  
 
