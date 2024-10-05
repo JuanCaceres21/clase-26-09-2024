@@ -75,7 +75,7 @@ Figura 2. ejercicio redes de atraso.
 
 Como se ve en la imagen ubicamos un cursor en la fase de -114°, esto ya que este valor se obtiene así:
 
-$$φ=180°+MP+6°$$
+$$φ=180°-(MP+6°)$$
 
 En donde MP es el margen de fase deseado.
 De esta misma forma sabemos que: 
@@ -108,29 +108,38 @@ Y como se puede observar, gracias a la función, la margen de fase fue modificad
 ## 📚ejercicio 2:
 Digamos que queremos que el margen de fase sea aun mas grande, digamos que lo pondremos en 100° en lugar de 60° en el siguiente sistema.
 
+En donde su diagrama de bode es:
+
 $$G(s)=\frac{9}{{s}^2+{2s}+3}$$
 
-$$φ=180°+MP+6°$$
+![Ejemplo redes de atraso](imagenes/ejemplo4.jpg)
 
-En donde MP es el margen de fase deseado.
-De esta misma forma sabemos que: 
-
-$$Wg=0.733Rad/s$$ 
-
-$$α=2.51dB$$ 
-
-Por lo tanto:
-
-$$a={10}^{-\frac{2.51}{20}}$$
-
-$$a=0.74$$
-
-$$T1=\frac{10}{0.733.0.74}$$
-
-$$T1=18.21$$
+Figura 4. Diagrama de bode ejercicio 2.
 
 Entonces:
 
-$$C(w)=\frac{1+13.4754w}{1+18.21w}$$
+$$φ=180°-(MP+6°)$$
+
+En donde MP es el margen de fase deseado (100°).
+
+De esta misma forma sabemos que: 
+
+$$Wg=1.47Rad/s$$ 
+
+$$α=9.36dB$$ 
+
+Por lo tanto:
+
+$$a={10}^{-\frac{9.36}{20}}$$
+
+$$a=0.34$$
+
+$$T1=\frac{10}{1.47.0.34}$$
+
+$$T1=20$$
+
+Entonces:
+
+$$C(w)=\frac{1+6.8w}{1+20w}$$
  
 
